@@ -1,6 +1,6 @@
 ### Hello! I am Rayssa Cristinne, Geophysicist and Technology enthusiast! 👋
   ##
-<table border="0" width="200%" cellpadding="5" align="center" style="max-device-width: 1000px">
+<table border="0" width="200%" cellpadding="5" align="center" style="max-device-width: 2000px">
 
 <tr>
 <td width="45%" valign="top">

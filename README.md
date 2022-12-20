@@ -3,12 +3,12 @@
 <table border="0" width="200%" cellpadding="5" align="center">
 
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 <a href="https://github.com/rayssaz">
   <img height="240em" src="https://github-readme-stats.vercel.app/api?username=rayssaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </td>
 
-<td width="20%" align="center">
+<td width="25%" align="center">
 <img align="center" alt="Python" height="30" width="40" style="border-width:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="MySQL" height="30" width="40"  style="border-width:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />    
 <img align="center" alt="Javascript" height="30" width="40" style="border-width:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
